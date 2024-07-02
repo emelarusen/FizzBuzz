@@ -8,11 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "typescript": "^5.5.2"
   },
   "dependencies": {
+    "@types/node": "^20.14.9",
     "ts-node": "^10.9.2"
-  }
+  },
+  "description": ""
 }
